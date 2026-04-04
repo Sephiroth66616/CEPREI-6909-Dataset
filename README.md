@@ -55,8 +55,6 @@ To construct severe domain shift scenarios, data acquisition followed a full-fac
 
 *\*Note: Due to the high risk of catastrophic cage disintegration and safety hazards under heavy loads, Label 6 was safely restricted to the 320 N base load. This authentic physical constraint naturally provides an ideal testbed for evaluating diagnostic model robustness under severe **class imbalance** and **missing target labels** across domain transfers.*
 
----![img.png](img.png)
-
 ## 🚀 Recommended Cross-Domain Evaluation Tasks
 Researchers utilizing this dataset are encouraged to construct the following challenging transfer tasks:
 1. **Single-Variable Shift:** Cross-speed (e.g., 300-1500 rpm $\leftrightarrow$ 1800-3000 rpm) and Cross-load (e.g., Light $\leftrightarrow$ Heavy).
