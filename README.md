@@ -1,10 +1,10 @@
-# CEPREI-6909 Industrial Dataset for Cross-Domain Fault Diagnosis
+# CEPREI-6909 Dataset for Cross-Domain Fault Diagnosis
 
 [![Status](https://img.shields.io/badge/Status-Under%20Review-orange.svg)]()
 [![Dataset](https://img.shields.io/badge/Dataset-CEPREI--6909-blue.svg)]()
 
 > **⚠️ IMPORTANT NOTICE:**
-> This repository serves as the official data hub for the **CEPREI-6909 Industrial Dataset**, introduced in the paper **"Causal Prototype Variational Information Bottleneck Framework for Cross-Domain Fault Diagnosis"**. 
+> This repository serves as the official data hub for the **CEPREI-6909 Dataset**, introduced in the paper **"Causal Prototype Variational Information Bottleneck Framework for Cross-Domain Fault Diagnosis"**. 
 > 
 > **The paper is currently under peer review. To comply with the review policies and protect unpublished work, the dataset download links are temporarily withheld.** 
 > 
