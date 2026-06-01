@@ -8,7 +8,7 @@ This public release contains **vibration signals only**. Acoustic/sound signals 
 
 The full vibration dataset is distributed as a compressed archive through GitHub Releases. This GitHub repository is used as the public dataset homepage and contains the documentation and illustrative figures.
 
-> **Dataset archive:** [CEPREI-6909-Dataset.zip](https://github.com/Sephiroth66616/CEPREI-6909-Dataset/releases/download/v1.0/CEPREI-6909-Dataset.zip)  
+> **Dataset archive:** [CEPREI-6909-Dataset.zip](https://github.com/Sephiroth66616/CEPREI-6909-Dataset/releases/tag/v1.0)  
 
 After downloading and extracting the archive, the data directory should follow the package structure described below.
 
