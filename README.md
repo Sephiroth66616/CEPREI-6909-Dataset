@@ -6,9 +6,9 @@ This public release contains **vibration signals only**. Acoustic/sound signals 
 
 ## Download
 
-The full vibration dataset is distributed as a compressed archive through Quark Cloud Drive. This GitHub repository is used as the public dataset homepage and contains only the documentation and illustrative figures.
+The full vibration dataset is distributed as a compressed archive through GitHub Releases. This GitHub repository is used as the public dataset homepage and contains the documentation and illustrative figures.
 
-> **Quark Cloud Drive:** [https://pan.quark.cn/s/056ce0f0d41b](https://pan.quark.cn/s/056ce0f0d41b)
+> **Dataset archive:** [CEPREI-6909-Dataset.zip](https://github.com/Sephiroth66616/CEPREI-6909-Dataset/releases/download/v1.0/CEPREI-6909-Dataset.zip)  
 
 After downloading and extracting the archive, the data directory should follow the package structure described below.
 
@@ -147,7 +147,7 @@ The cage-fracture case (B09) was measured only under the 320N radial-load condit
 
 ## Repository Contents
 
-This GitHub repository is intentionally lightweight. It does not store the full CSV dataset directly.
+This GitHub repository is intentionally lightweight. The full CSV dataset is provided as a compressed archive in GitHub Releases rather than as ordinary tracked repository files.
 
 ```text
 CEPREI-6909/
